@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dunlop-gamma.vercel.app/">🌐 Ver Demo en Vivo</a>
+  <a href="https://prinx.vercel.app/">🌐 Ver Demo en Vivo</a>
 </p>
 
 ## 📝 Descripción
